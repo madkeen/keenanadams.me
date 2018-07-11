@@ -2,14 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Folio on Keenan Adams</title>
-    <link>http://keenanadams.me/folio/</link>
+    <link>https://keenanadams.me/folio/</link>
     <description>Recent content in Folio on Keenan Adams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Jun 2018 22:19:42 +1000</lastBuildDate>
     
-	<atom:link href="http://keenanadams.me/folio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://keenanadams.me/folio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Navigation Redesign</title>
+      <link>https://keenanadams.me/folio/navigation-redesign/</link>
+      <pubDate>Sun, 17 Jun 2018 22:13:57 +1000</pubDate>
+      
+      <guid>https://keenanadams.me/folio/navigation-redesign/</guid>
+      <description>Folio item starts here -&amp;gt;</description>
+    </item>
     
   </channel>
 </rss>

@@ -2,57 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Keenan Adams</title>
-    <link>http://keenanadams.me/tags/</link>
+    <link>https://keenanadams.me/tags/</link>
     <description>Recent content in Tags on Keenan Adams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Mar 2018 20:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jun 2018 22:13:57 +1000</lastBuildDate>
     
-	<atom:link href="http://keenanadams.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://keenanadams.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Analysis</title>
+      <link>https://keenanadams.me/tags/analysis/</link>
+      <pubDate>Sun, 17 Jun 2018 22:13:57 +1000</pubDate>
+      
+      <guid>https://keenanadams.me/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blog</title>
-      <link>http://keenanadams.me/tags/blog/</link>
+      <link>https://keenanadams.me/tags/blog/</link>
       <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
       
-      <guid>http://keenanadams.me/tags/blog/</guid>
+      <guid>https://keenanadams.me/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classic</title>
-      <link>http://keenanadams.me/tags/classic/</link>
+      <link>https://keenanadams.me/tags/classic/</link>
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
-      <guid>http://keenanadams.me/tags/classic/</guid>
+      <guid>https://keenanadams.me/tags/classic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>http://keenanadams.me/tags/code/</link>
+      <link>https://keenanadams.me/tags/code/</link>
       <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
       
-      <guid>http://keenanadams.me/tags/code/</guid>
+      <guid>https://keenanadams.me/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Architecture</title>
+      <link>https://keenanadams.me/tags/information-architecture/</link>
+      <pubDate>Sun, 17 Jun 2018 22:13:57 +1000</pubDate>
+      
+      <guid>https://keenanadams.me/tags/information-architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poem</title>
-      <link>http://keenanadams.me/tags/poem/</link>
+      <link>https://keenanadams.me/tags/poem/</link>
       <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
       
-      <guid>http://keenanadams.me/tags/poem/</guid>
+      <guid>https://keenanadams.me/tags/poem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story</title>
-      <link>http://keenanadams.me/tags/story/</link>
+      <link>https://keenanadams.me/tags/story/</link>
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
-      <guid>http://keenanadams.me/tags/story/</guid>
+      <guid>https://keenanadams.me/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Interface Design</title>
+      <link>https://keenanadams.me/tags/user-interface-design/</link>
+      <pubDate>Sun, 17 Jun 2018 22:13:57 +1000</pubDate>
+      
+      <guid>https://keenanadams.me/tags/user-interface-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Research</title>
+      <link>https://keenanadams.me/tags/user-research/</link>
+      <pubDate>Sun, 17 Jun 2018 22:13:57 +1000</pubDate>
+      
+      <guid>https://keenanadams.me/tags/user-research/</guid>
       <description></description>
     </item>
     

@@ -1,8 +1,9 @@
-baseurl                 = "http://keenanadams.me/"               # Your domain name. Must end with "/"
+baseurl                 = "https://keenanadams.me/"               # Your domain name. Must end with "/"
+canonifyURLs            = true
 languageCode            = "en-us"
 title                   = "Keenan Adams"
 author                  = "Keenan"
-theme                   = "sam"
+theme                   = "keen-i-am"
 pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
 # googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
@@ -10,7 +11,7 @@ pygmentsCodefences      = true
 [params]
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "/sam.ico"
+    favicon             = "sam.ico"
     homepage            = "home"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
@@ -25,9 +26,9 @@ pygmentsCodefences      = true
     link = "/about"
     text = "who is keenan?"
 
-# [[params.mainMenu]]
-#     link = "/posts"
-#     text = "writing"
+[[params.mainMenu]]
+     link = "/posts"
+     text = "writing"
 
 [[params.mainMenu]]
    link = "/folio"
